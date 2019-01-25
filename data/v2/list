@@ -1,0 +1,11 @@
+fixed_neurons_2000  mm10
+fixed_neurons_6days_2000    mm10
+neuron_9k   mm10
+neurons_2000    mm10
+neurons_900 mm10
+nuclei_2k   mm10
+nuclei_900  mm10
+pbmc4k  GRCh38
+pbmc8k  GRCh38
+t_3k    GRCh38
+t_4k    GRCh38

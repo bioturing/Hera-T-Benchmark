@@ -1,0 +1,6 @@
+pbmc_1k_v3	GRCh38
+pbmc_10k_v3	GRCh38
+neuron_1k_v3 mm10
+neuron_10k_v3	mm10
+heart_1k_v3	mm10
+heart_10k_v3	mm10
