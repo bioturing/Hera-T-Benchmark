@@ -1,4 +1,4 @@
-# Hera-T paper analysis
+# Hera-T benchmark
 This repository contains the benchmark source code in order to reproduce the result from the Hera-T's paper.
 # Software
 
